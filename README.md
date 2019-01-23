@@ -6,9 +6,9 @@ Presentation:
 https://docs.google.com/presentation/d/1I65HEoHhGB-1ucAQEX4waU_hPwbemr-puBas6HFcsWo/edit?usp=sharing
 
 Citations:
-Peyton, Miles, et al. “Processing.py Reference. Processing Is Not a Single Programming Language, but an Arts-Centric System for Learning, Teaching, and Making Visual Form with Code. This Reference Documents Its Python Mode.” Back to Python Mode, py.processing.org/reference/.
+Peyton, Miles, et al. “Processing.py Reference. Processing Is Not a Single Programming Language, but an Arts-Centric System for Learning, Teaching, and Making Visual Form with Code. This Reference Documents Its Python Mode.” Back to Python Mode, py.processing.org/reference/ .
 
-Pvcraven. “Pvcraven/Arcade.” GitHub, github.com/pvcraven/arcade/blob/master/arcade/examples/tetris.py.
+Pvcraven. “Pvcraven/Arcade.” GitHub, github.com/pvcraven/arcade/blob/master/arcade/examples/tetris.py .
 
 
 
