@@ -1,9 +1,3 @@
-# Intro to Programming Final Project - Fall 2018
+# 1010! Another version of Tetris
 
-* Project details are in description.md
-* Replace the content of this file with your own info about your project before the due date
-* Don't forget to fill out the [Project Proposal Form](https://airtable.com/shrrdA41unoBvi6Ki) before break.
-
-## Setting Up Your Repo
-
-On the GitHub page for this repository, click the "Fork" button. This will create your own copy of this repository, linked to my original. Use the same cloning method we used before to clone the repository to your PythonAnywhere account
+* 1010! Is a simplistic puzzle game similar to tetris. Combine blocks to form full vertical and horizontal lines. When a full line is formed, the line will clear. There is no time and blocks can be placed anywhere on the grid but they cannot be reoriented. If the next random block chosen cannot fit in the grid, the grid will clear and a new game will start.
