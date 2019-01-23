@@ -134,7 +134,7 @@ class Piece:
 currentBlock = Piece(blockIndex)
 
 def setup():
-    """creates the grid for the game 10x15"""
+    """creates the grid for the game 10x10"""
     size(300, 300) #screen window size
     background(255) #color of the background of screen
     for x in range(0, 300, boxSize): #establishing the grid
