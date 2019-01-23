@@ -235,6 +235,7 @@ def mouseClicked():
     if youLoser == True:
         grid = [[0 for j in range(gridSize)] for i in range(gridSize)]
         #wiping the whole thing to restart
+          
 def display(piece, posX, posY):
     """show the object in the location on the grid specified"""
     for i in range(len(piece)):
@@ -242,4 +243,3 @@ def display(piece, posX, posY):
             if piece[i][j] > 0:
                 fill(colors[piece[i][j]])
                 rect(posX + j*boxSize, posY + i*boxSize, boxSize, boxSize, cornerRadius)
-                
